@@ -8,13 +8,13 @@ She would like to know the attrition rate (% of people who left the company).
 She would also know if factors like age, years at the company and income play a part in determining if people will leave or not.
 ## Objective
 
-    ** Provide Insights to Hr Director for employee attrition.
+    **Provide Insights to Hr Director for employee attrition.**
 
-    ** The staff of Green Destinations provided the data.
+    **The staff of Green Destinations provided the data.**
 
-    ** Create the KPI's accordingly.
+    **Create the KPI's accordingly.**
 
-    ** Create a dashboard.
+    **Create a dashboard.**
 
 ## Attrition KPIs and insights:
 
@@ -23,11 +23,11 @@ She would also know if factors like age, years at the company and income play a 
 3.Causes of attrition: Identify common reasons why employees leave, such as career advancement opportunities, compensation, or work-life balance. Insights from these metrics enable HR to identify areas for improvement and develop targeted retention strategies.
 
 ## KPI's
-    ** Total Employees
-    ** Attrition Count
-    ** Attrition Rate %
-    ** Average Age
-    ** Average years @ company
+    **Total Employees**
+    **Attrition Count**
+    **Attrition Rate %**
+    **Average Age**
+    **Average years @ company**
 ## Dataset 📀
 https://www.kaggle.com/datasets/vinaykumar11061/greendestination
 ## Technology
